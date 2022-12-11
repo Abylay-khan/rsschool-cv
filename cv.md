@@ -20,6 +20,7 @@ It would be my pleasure to extend my knowledge in front-end development. My main
 - Python
 - JavaScript(Fundamentals)
 - Git/GitHub/Gitlab
+- SQL
 
 # Code Examples
 
@@ -45,3 +46,4 @@ for (let i = 1; i <= number; i++) {
 # Language
 
 - English - B2
+- Kazakh - Native
